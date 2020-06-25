@@ -28,23 +28,23 @@ UI
 
 ------ students.db -------
 
-TABLE students 
-    studentid integer
-    email text
-    first text
-    last text
-    dob text
+TABLE students   
+    studentid integer  
+    email text  
+    first text  
+    last text  
+    dob text  
 
-TABLE classes 
-    teacherid integer
-    year integer
-    studentid integer
+TABLE classes  
+    teacherid integer  
+    year integer  
+    studentid integer  
 
-TABLE scores 
-    studentid integer
-    metricid integer
-    date integer
-    score integer
+TABLE scores  
+    studentid integer  
+    metricid integer  
+    date integer  
+    score integer  
 
 
 
